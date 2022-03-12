@@ -3,4 +3,4 @@
 
 Type | Description | cpu | mm | role | env 
 --- | -------------| ---| --| ----| ----
-ABCD|  EFGBGHIJLUKM| QRS| TU| BFBF | DEV
+ABCD|  Please put real stuff| QRS| TU| BFBF | DEV
